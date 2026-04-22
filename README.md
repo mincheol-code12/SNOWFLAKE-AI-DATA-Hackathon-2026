@@ -82,7 +82,7 @@
 
 ## 연관 문서
 
-- 포트폴리오 요약 (Notion) — *(링크 추가 예정)*
+- 포트폴리오 요약 (Notion) —https://www.notion.so/snowflake-2026-316e8dab590580f699e4cba2b617b818?source=copy_link
 
 ---
 
